@@ -1,3 +1,3 @@
-FROM debian:jessie
+FROM alpine:latest
 
-RUN apt-get update && apt-get install -y make texlive-full
+RUN apk update && apk add --no-cache make texlive-full

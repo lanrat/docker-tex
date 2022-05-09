@@ -1,3 +1,5 @@
+# DEPRECATED USE: [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker)
+
 # Docker tex
 
 A Docker image for compiling texlive
